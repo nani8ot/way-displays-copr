@@ -40,5 +40,5 @@ install -D -m 644 cfg.yaml %{buildroot}/etc/%{name}/cfg.yaml
 /etc/%{name}/cfg.yaml
 
 %changelog
-* 2023-03-19 Aaron Wiedemer <hello@wiedemer.xyz> 1.7.1
+* Sun May 19 2023 Aaron Wiedemer <hello@wiedemer.xyz> 1.7.1
 - Initial package
