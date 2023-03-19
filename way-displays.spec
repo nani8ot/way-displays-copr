@@ -7,6 +7,7 @@ URL:		https://github.com/alex-courtis/way-displays
 Source0:	%{url}/archive/refs/tags/%{version}.tar.gz
 
 BuildRequires:  gcc
+BuildRequires:  g++
 BuildRequires:	git
 BuildRequires:	make
 
