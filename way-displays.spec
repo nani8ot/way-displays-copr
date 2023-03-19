@@ -17,6 +17,7 @@ BuildRequires:  pkgconfig(wayland-protocols)
 BuildRequires:  pkgconfig(wayland-server)
 BuildRequires:  pkgconfig(wlroots)
 BuildRequires:	pkgconfig(yaml-cpp)
+BuildRequires:	pkgconfig(pandoc)
 
 %description
 Auto Manage Your Wayland Displays
