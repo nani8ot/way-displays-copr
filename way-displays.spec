@@ -10,6 +10,7 @@ BuildRequires:  gcc
 BuildRequires:  g++
 BuildRequires:	git
 BuildRequires:	make
+BuildRequires:  pandoc
 
 BuildRequires:  pkgconfig(libevdev)
 BuildRequires:  pkgconfig(libinput)
@@ -17,7 +18,6 @@ BuildRequires:  pkgconfig(wayland-protocols)
 BuildRequires:  pkgconfig(wayland-server)
 BuildRequires:  pkgconfig(wlroots)
 BuildRequires:	pkgconfig(yaml-cpp)
-BuildRequires:	pkgconfig(pandoc)
 
 %description
 Auto Manage Your Wayland Displays
